@@ -1,2 +1,13 @@
 git status // show info 
-git branch // show branches  
+git branch // show branches
+  -a // show all
+git checkout // switch branch
+git log // show log
+  --oneline
+  --graph
+  --decorate
+  --all
+  
+git merge{branch name} --no-ff // merge with no fast forword
+
+
