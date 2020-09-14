@@ -1,6 +1,7 @@
 git status // show info 
 git branch // show branches
   -a // show all
+  {branch name} // creat new branch
 git checkout // switch branch
 git log // show log
   --oneline
